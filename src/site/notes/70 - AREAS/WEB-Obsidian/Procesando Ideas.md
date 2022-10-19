@@ -6,3 +6,7 @@
 # Procesando Ideas
 
 Mi nuevo sitio web para compartir mis procesos creativos.
+
+>[!Check] Gracias por visitar esta página.
+
+### Gracias
