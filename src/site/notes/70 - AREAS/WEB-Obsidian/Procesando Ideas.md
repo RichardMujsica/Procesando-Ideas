@@ -9,4 +9,6 @@ Mi nuevo sitio web para compartir mis procesos creativos.
 
 >[!Check] Gracias por visitar esta página.
 
+Esta sección esta escrita desde el celular.
+
 ### Gracias
