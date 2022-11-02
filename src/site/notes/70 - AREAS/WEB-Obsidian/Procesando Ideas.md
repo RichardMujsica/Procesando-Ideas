@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-areas/web-obsidian/procesando-ideas/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/70-areas/web-obsidian/procesando-ideas/","tags":"gardenEntry","dgShowLocalGraph":true}
 ---
 
 
