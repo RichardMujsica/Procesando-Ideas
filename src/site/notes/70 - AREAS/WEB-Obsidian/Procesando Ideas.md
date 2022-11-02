@@ -24,6 +24,7 @@ Esta sección esta escrita desde el celular.
 ## Contenido
 
 [[70 - AREAS/WEB-Obsidian/web-content/Bóveda PKM\|Bóveda PKM]]
+[[70 - AREAS/WEB-Obsidian/web-content/Grafico local\|Grafico local]]
 
 ### Gracias
 
