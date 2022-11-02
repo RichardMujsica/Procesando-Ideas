@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-areas/web-obsidian/web-content/boveda-pkm/","dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/70-areas/web-obsidian/web-content/boveda-pkm/","dgShowBacklinks":true}
 ---
 
 
