@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/w-ideas/boveda-pkm/","dgShowBacklinks":true}
+{"dg-publish":true,"permalink":"/w-ideas/boveda-pkm/","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
