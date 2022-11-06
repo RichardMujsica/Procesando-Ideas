@@ -23,7 +23,7 @@ Esta sección esta escrita desde el celular.
 
 ## Contenido
 
-[[W-ideas/web-content/Bóveda PKM\|Bóveda PKM]]
+[[W-ideas/Bóveda PKM\|Bóveda PKM]]
 [[W-ideas/web-content/Grafico local\|Grafico local]]
 
 ### Gracias
