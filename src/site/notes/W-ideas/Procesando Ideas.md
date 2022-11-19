@@ -7,7 +7,7 @@
 
 
 
-Encabezado: **Procesando Ideas**
+**Procesando Ideas** - [[W-ideas/Guia PKM Base\|Guia PKM Base]] - [[W-ideas/Podcast Pi\|Podcast Pi]] 
 
 </div></div>
 
@@ -34,6 +34,7 @@ Esta sección esta escrita desde el celular.
 
 
 
-Footer: **Referencias**
+**Espacio producido por** [PachaKamani.com](http://pachakamani.com/)
+
 
 </div></div>
