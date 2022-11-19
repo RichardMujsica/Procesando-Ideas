@@ -19,10 +19,11 @@ Espacio web para compartir procesos creativos y formas de senti-pensar para segu
 >[!Check] Contenido
 
 Así como los procesos creativos, este sitio estará en constante crecimiento. 
+
 Aquí tienes los cuatro componentes que lo conforman:
 
-1. Uno de los formatos de contenido que más me gustan es el podcast. Y será el ese el medio para compartir contenido relaciona a diferentes procesos de creación y pensamiento. Aquí el [[W-ideas/Podcast Pi\|Podcast Procesando Ideas]].
-2. Una herramienta central para la cración de contenido es una buena aplicación de notas. Por ello, recomendamos Obsidian como principal plataforma. Aquí te proponemos una Guía de manejo de la Bóveda en Obsidian para la contrucción de un PKM: [[W-ideas/Guia PKM Base\|Guia PKM Base]].
+1. Uno de los formatos de contenido que más apreciamos es el pódcast. Y será el medio central para compartir contenido relaciona a diferentes procesos de creación y pensamiento: [[W-ideas/Podcast Pi\|Podcast Procesando Ideas]].
+2. Una herramienta central para la creación de contenido es una buena aplicación de notas. Por ello, recomendamos Obsidian como principal plataforma. Aquí te proponemos una Guía de manejo de la Bóveda en Obsidian para la construcción inicial de un PKM: [[W-ideas/Guia PKM Base\|Guia PKM Base]].
 3. También tenemos algunos videos para compartir nuestro aprendizaje en el Curso [[W-ideas/web-content/Obsidian Paso a Paso\|Obsidian Paso a Paso]].
 4. Finalmente, te invitamos a formar parte de un grupo de reciente creación para el PKM y [[W-ideas/Obsidian en LinkedIn\|Obsidian en LinkedIn]]
 
