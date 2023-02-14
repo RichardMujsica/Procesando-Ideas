@@ -8,9 +8,9 @@
 
 ## Presentación
 
-¿Qué es el _PKM_? es una sigla en ingles que se traduce como _Gestión del Conocimiento Personal_. Es decir, se trata del uso y articulación de métodos, habilidades o técnicas que nos ayuden procesar y aprovechar lo mejor posible la información para generar nuestro conocimiento y saber. Wow, así es, estamos hablando de procesos muy grandes o relativamente sensillos, según sea el caso y la situación de cada persona. Recuerda: "cada persona es un mundo", entonces es dificil crear una única receta, o un único PKM. 
+¿Qué es el _PKM_? es una sigla en ingles que se traduce como _Gestión del Conocimiento Personal_. Es decir, se trata del uso y articulación de métodos, habilidades o técnicas que nos ayuden procesar y aprovechar lo mejor posible la información para generar nuestro conocimiento y saber. Wow, así es, estamos hablando de procesos muy grandes o relativamente sencillos, según sea el caso y la situación de cada persona. Recuerda: "cada persona es un mundo", entonces es dificil crear una única receta, o un único PKM. 
 
-Es muy posible que todos tengamos un PKM implícito ayudándonos y no nos dimos cuenta. Pero si no lo tenemos, es necesario iniciar con algo y no dejarnos consumir por la complejidad que desde ya nos parecería construir concientemente nuestro PKM. 
+Es muy posible que todos tengamos un PKM implícito ayudándonos y no nos dimos cuenta. Pero si no lo tenemos, es necesario iniciar con algo y no dejarnos consumir por la complejidad que desde ya nos parecería construir conscientemente nuestro PKM. 
 
 Por ello, antes de atascarnos (más de la cuenta) en la "parálisis por análisis", hemos preparado este entorno básico en Obsidian para el inicio de la construcción de tu PKM. 
 
@@ -19,7 +19,7 @@ Optamos por utilizar [Obsidian.md](https://obsidian.md/), por su versatilidad y 
 - Añadir complementos (plugins) según tus necesidades personales.
 - Permite manejar diferentes soportes de archivos digitales.
 - Permite una fluidez y versatilidad para conectar notas simples y crear complejas bases de datos.
-Además, es gratis y tienes a una comunidad mundial que apoya su uso y creacimientos constante. Esta bóveda intenta ser un aporte para retribuír lo aprendido.
+Además, es gratis y tienes a una comunidad mundial que apoya su uso y crecimiento constante. Esta bóveda intenta ser un aporte para retribuir lo aprendido.
 
 ## Entorno PKM Base en Obsidian
 
