@@ -4,7 +4,7 @@
 
 ## Obsidian Paso a Paso
 
-Obsidian es una aplicación muy versátil y flexible, útil para quienes producen y consumen contenido, para realizar [#investigación](https://www.youtube.com/hashtag/investigaci%C3%B3n) o crear una base de conocimiento personal en cualquier nivel de (auto)formación. 
+Obsidian es una aplicación muy versátil y flexible, útil para quienes producen y consumen contenido, para realizar _investigación_ o crear una base de conocimiento personal en cualquier nivel de (auto)formación ([[W-ideas/Guia PKM Base\|Guia PKM Base]]). 
 
 > Curso Obsidian, paso a paso
 
@@ -14,9 +14,13 @@ Este contenido da continuidad al Curso sobre "Gestión del conocimiento personal
 
 Con este video damos inicio a un nuevo curso, el cual está dedicado a una de las aplicaciones gratuitas de toma de notas más versátiles de los últimos años. Serie 01. "Entorno de aplicación y principales recursos".
 
-
+### Presentación y aspectos básicos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vx8vC7whcWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Descarga, instalación y primeros pasos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1CjpVD-VvPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Apariencia, temas y personalización
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R1f9dRAu_h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[[W-ideas/Presentación\|Presentación]] - [[W-ideas/Obsidian en LinkedIn\|Obsidian en LinkedIn]] - [[W-ideas/Podcast Pi\|Podcast Pi]]
