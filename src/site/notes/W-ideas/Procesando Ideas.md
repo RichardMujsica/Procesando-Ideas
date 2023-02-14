@@ -7,7 +7,7 @@
 
 
 
-_Procesando Ideas_ - [[W-ideas/Guia PKM Base\|Guia PKM Base]] - [[W-ideas/Podcast Pi\|Podcast Pi]] - [[W-ideas/web-content/Obsidian Paso a Paso\|Obsidian Paso a Paso]]
+Procesando Ideas - [[W-ideas/Guia PKM Base\|Guia PKM Base]] - [[W-ideas/Podcast Pi\|Podcast Pi]] - [[W-ideas/web-content/Obsidian Paso a Paso\|Obsidian Paso a Paso]]
 
 </div></div>
 
@@ -27,7 +27,7 @@ Aquí tienes los cuatro componentes que lo conforman:
 3. También tenemos algunos videos para compartir nuestro aprendizaje en el Curso [[W-ideas/web-content/Obsidian Paso a Paso\|Obsidian Paso a Paso]].
 4. Finalmente, te invitamos a formar parte de un grupo de reciente creación para el PKM y [[W-ideas/Obsidian en LinkedIn\|Obsidian en LinkedIn]]
 
->[!danger] Podcast
+>[!tip] Podcast
 
 <iframe src="https://anchor.fm/procesando-ideas"  width="100%" height="500" frameborder="0" ></iframe>
 
@@ -37,7 +37,6 @@ Aquí tienes los cuatro componentes que lo conforman:
 
 
 
-_Espacio producido por_ [PachaKamani.com](http://pachakamani.com/)
-
+Espacio producido por [PachaKamani.com](http://pachakamani.com/)
 
 </div></div>
