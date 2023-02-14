@@ -4,7 +4,7 @@
 
 ## Obsidian Paso a Paso
 
-Obsidian es una aplicación muy versátil y flexible, útil para quienes producen y consumen contenido, para realizar _investigación_ o crear una base de conocimiento personal en cualquier nivel de (auto)formación ([[W-ideas/Guia PKM Base\|Guia PKM Base]]). 
+Obsidian es una aplicación muy versátil y flexible, útil para quienes producen y consumen contenido, para realizar _investigación_ o crear una base de conocimiento personal en cualquier nivel de (auto)formación ([[W-ideas/Guía PKM Base\|Guía PKM Base]]). 
 
 > Curso Obsidian, paso a paso
 
