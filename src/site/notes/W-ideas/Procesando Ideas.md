@@ -31,6 +31,7 @@ Explora nuestros recursos y únete a nosotros para continuar aprendiendo juntos 
 
 <iframe src="https://anchor.fm/procesando-ideas"  width="100%" height="600" frameborder="0" ></iframe>
 
+Novedades, muy pronto.
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
