@@ -6,30 +6,30 @@
 
 ¡Saludos, miembros de PachaKamani!
 
-Es un placer invitarles a nuestra próxima reunión virtual en el canal de Telegram de nuestro querido colectivo. En esta ocasión, nos reuniremos para presentarles el emocionante y enriquecedor programa especial de conferencias académicas que hemos organizado como parte de la Reunión Anual de Etnología 2023.
+Es un placer invitarles a nuestra próxima reunión virtual en el [canal de Telegram de nuestro colectivo](https://t.me/PachaKamani). En esta ocasión, nos reuniremos para presentarles el emocionante y enriquecedor programa especial de conferencias académicas que hemos organizado como parte de la Reunión Anual de Etnología 2023.
 
 ![Anuncio-rae-2023.jpg](/img/user/W-ideas/img/Anuncio-rae-2023.jpg)
 
-Aquí está el programa que hemos preparado:
+Aquí está el **programa** que hemos preparado:
 
-🌟 Bienvenida.
+🌟 **Bienvenida**.
 Daremos inicio a la reunión con unas palabras de bienvenida y agradecimiento por ser parte de esta comunidad que valora y promueve la riqueza cultural y el conocimiento.
 
-📚 Explicación del Programa de Conferencias.
+📚 **Explicación del Programa de Conferencias.**
 Compartiremos los detalles del programa de conferencias académicas que hemos preparado para todos ustedes. Exploraremos los temas que se abordarán y cómo estas charlas se alinean con nuestros objetivos en PachaKamani.
 
-🗣️ Presentación de los Expositores
+🗣️ **Presentación de los Expositores**
 Hablaremos un poco de nuestros invitados al evento, expositores expertos en sus respectivas áreas.
 
-📝 Método de Participación
+📝 **Método de Participación**
 Explicaremos cómo podrán participar en estas conferencias y sacar el máximo provecho de la experiencia. Aclararemos los detalles sobre preguntas y respuestas, interacción con los expositores y todo lo necesario para una experiencia fluida y enriquecedora.
 
-Fecha de la Reunión:
+**Fecha de la Reunión:**
 🗓️ Hoy domingo 13 de agosto a las ⏰ 20:00
 
 Esperamos contar con su valiosa presencia en esta reunión virtual. ¡Será una gran oportunidad para prepararnos y emocionarnos antes de la Reunión Anual de Etnología 2023!
 
-Nos vemos en el canal de Telegram de PachaKamani. ¡No falten!
+Nos vemos en [el canal de Telegram de PachaKamani](https://t.me/PachaKamani). ¡No faltes!
 
 # Presentación del 2do Encuentro
 
@@ -55,7 +55,8 @@ Henry Stobart (Inglaterra)
 
 ## Participación anticipada en las conferencias internacionales
 
-Gran parte de los expositores de nuestro evento, no podrán llegar a Bolivia para el evento, por lo cual realizaremos la grabación de sus ponencias. Así que tendremos sus conferencias de manera anticipada y exclusiva solo para los suscriptores y la comunidad de PachaKamani. Es decir, que si quieres participar en vivo de las presentaciones de estos invitados puedes unirte a la charla y hacer preguntas a los expositores.
+Gran parte de los expositores de nuestro evento, radican fuera de Bolivia, por lo cual realizaremos la grabación de sus ponencias. Así que tendremos sus conferencias de manera anticipada y exclusiva solo para los suscriptores y la comunidad de PachaKamani. Es decir, que si quieres participar en vivo de las presentaciones de estos invitados puedes unirte a la charla y hacer preguntas a los expositores.
 
-Dale clic al botón "Quiero participar", y tendrás la información detalla del evento.
+Esta página se actualizará permanentemente con información de este evento.
 
+Gracias por tu interés. 
