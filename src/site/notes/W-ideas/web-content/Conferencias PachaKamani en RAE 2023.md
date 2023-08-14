@@ -4,32 +4,13 @@
 
 # 2do Encuentro "Reflexiones sobre la patrimonialización de músicas y sonoridades"
 
-¡Saludos, miembros de PachaKamani!
+¡Saludos, y gracias por tu visita ya eres miembro de PachaKamani!
 
-Es un placer invitarles a nuestra próxima reunión virtual en el [canal de Telegram de nuestro colectivo](https://t.me/PachaKamani). En esta ocasión, nos reuniremos para presentarles el emocionante y enriquecedor programa especial de conferencias académicas que hemos organizado como parte de la Reunión Anual de Etnología 2023.
+Es un placer invitarles a nuestro evento académico más importante del año, el **2do Encuentro "Reflexiones sobre la patrimonialización de músicas y sonoridades"**. 
 
-![Anuncio-rae-2023.jpg](/img/user/W-ideas/img/Anuncio-rae-2023.jpg)
+Para conocer los detalles de esta actividad, realizamos una reunión virtual transmitida mediante el [canal de Telegram de nuestro colectivo](https://t.me/PachaKamani) y emitida por Youtube. Aquí tienen el video de presentación y abajo tienen más detalles al respecto.
 
-Aquí está el **programa** que hemos preparado:
-
-🌟 **Bienvenida**.
-Daremos inicio a la reunión con unas palabras de bienvenida y agradecimiento por ser parte de esta comunidad que valora y promueve la riqueza cultural y el conocimiento.
-
-📚 **Explicación del Programa de Conferencias.**
-Compartiremos los detalles del programa de conferencias académicas que hemos preparado para todos ustedes. Exploraremos los temas que se abordarán y cómo estas charlas se alinean con nuestros objetivos en PachaKamani.
-
-🗣️ **Presentación de los Expositores**
-Hablaremos un poco de nuestros invitados al evento, expositores expertos en sus respectivas áreas.
-
-📝 **Método de Participación**
-Explicaremos cómo podrán participar en estas conferencias y sacar el máximo provecho de la experiencia. Aclararemos los detalles sobre preguntas y respuestas, interacción con los expositores y todo lo necesario para una experiencia fluida y enriquecedora.
-
-**Fecha de la Reunión:**
-🗓️ Hoy domingo 13 de agosto a las ⏰ 20:00
-
-Esperamos contar con su valiosa presencia en esta reunión virtual. ¡Será una gran oportunidad para prepararnos y emocionarnos antes de la Reunión Anual de Etnología 2023!
-
-Nos vemos en [el canal de Telegram de PachaKamani](https://t.me/PachaKamani). ¡No faltes!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rHtjDtwQgLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Presentación del 2do Encuentro
 
@@ -43,20 +24,22 @@ Con esta propuesta, esperamos seguir avanzando en la reflexión y el conocimient
 
 ## Expositores invitados 
 
-Ada Belén Álvarez Celis (Bolivia)
-Rodrigo Chocano (Perú)
-Rosalía Martínez (París)
-Gloria Villarroel Salgueiro (Bolivia)
-Richard Mújica Angulo (Bolivia)
-Sebastian Hachmeyer (Alemania)
-Daniel Vacaflores (Bolivia)
-Michelle Bigenho (Estados Unidos)
-Henry Stobart (Inglaterra)
+- Ada Belén Álvarez Celis (Bolivia)
+- Rodrigo Chocano (Perú)
+- Rosalía Martínez (París)
+- Gloria Villarroel Salgueiro (Bolivia)
+- Richard Mújica Angulo (Bolivia)
+- Sebastian Hachmeyer (Alemania)
+- Daniel Vacaflores (Bolivia)
+- Michelle Bigenho (Estados Unidos)
+- Henry Stobart (Inglaterra)
 
 ## Participación anticipada en las conferencias internacionales
 
-Gran parte de los expositores de nuestro evento, radican fuera de Bolivia, por lo cual realizaremos la grabación de sus ponencias. Así que tendremos sus conferencias de manera anticipada y exclusiva solo para los suscriptores y la comunidad de PachaKamani. Es decir, que si quieres participar en vivo de las presentaciones de estos invitados puedes unirte a la charla y hacer preguntas a los expositores.
+Gran parte de los expositores de nuestro evento, radican fuera de Bolivia, por lo cual realizaremos la grabación de sus ponencias. Asi que tendremos sus conferencias de manera anticipada y exclusiva solo para los suscriptores y la comunidad de PachaKamani. Es decir, que si quieres participar en vivo de las presentaciones de estos invitados puedes unirte a la charla y hacer preguntas a los expositores.
 
-Esta página se actualizará permanentemente con información de este evento.
+Esta página se actualizará permanentemente con información de este evento. Aquí publicaremos el programa y los enlaces.
+
+Si llegaste a esta página y no estás suscrito al [boletín de PachaKamani](https://pachakamani.com/correo/), y quieres recibir la información directamente en tu correo electrónico, solo tienes que escribirnos a info@pachakamani.com y te incluiremos a la lista de correos de este evento. 
 
 Gracias por tu interés. 
