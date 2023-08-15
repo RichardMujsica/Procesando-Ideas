@@ -39,25 +39,29 @@ Con esta propuesta, esperamos seguir avanzando en la reflexión y el conocimient
 Título corto: El patrimonio marcado por género - No todo va por la ley.
 Día: Agosto 15, 2023
 Hora: 06:00 am. (GTM-04)
-Enlace: https://meet.google.com/eae-xiez-txh
+Enlace: 
+https://meet.google.com/eae-xiez-txh
 
 ### Nombre: Rodrigo Chocano
 Título corto: Escepticismo estratégico.
 Día: Agosto 16, 2023
 Hora: 05:00 am. (GTM-04)
-Enlace: https://meet.google.com/kns-xbvn-mfx
+Enlace: 
+https://meet.google.com/kns-xbvn-mfx
 
 ### Nombre: Daniel Vacaflores
 Título corto: La patrimonialización de San Roque
 Día: Agosto 16, 2023
 Hora: 22:00 (GTM-04)
-Enlace: https://meet.google.com/mjf-fiei-umk
+Enlace: 
+https://meet.google.com/mjf-fiei-umk
 
 ### Nombre: Sebastian Hachmeyer
 Título corto: La variable omitida
 Día: Agosto 17, 2023
 Hora: 06:00 am. (GTM-04)
-Enlace: https://meet.google.com/huu-xqih-dez
+Enlace: 
+https://meet.google.com/huu-xqih-dez
 
 ## Gracias
 
