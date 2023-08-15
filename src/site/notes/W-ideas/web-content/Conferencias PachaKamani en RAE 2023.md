@@ -33,12 +33,35 @@ Con esta propuesta, esperamos seguir avanzando en la reflexión y el conocimient
 - Daniel Vacaflores (Bolivia)
 - Michelle Bigenho (Estados Unidos)
 - Henry Stobart (Inglaterra)
+# Cronograma de grabación de ponencias 
 
-## Participación anticipada en las conferencias internacionales
+### Nombre: Michelle Bigenho y Henry Stobart
+Título corto: El patrimonio marcado por género - No todo va por la ley.
+Día: Agosto 15, 2023
+Hora: 06:00 am. (GTM-04)
+Enlace: https://meet.google.com/eae-xiez-txh
 
-Gran parte de los expositores de nuestro evento, radican fuera de Bolivia, por lo cual realizaremos la grabación de sus ponencias. Asi que tendremos sus conferencias de manera anticipada y exclusiva solo para los suscriptores y la comunidad de PachaKamani. Es decir, que si quieres participar en vivo de las presentaciones de estos invitados puedes unirte a la charla y hacer preguntas a los expositores.
+### Nombre: Rodrigo Chocano
+Título corto: Escepticismo estratégico.
+Día: Agosto 16, 2023
+Hora: 05:00 am. (GTM-04)
+Enlace: https://meet.google.com/kns-xbvn-mfx
 
-Esta página se actualizará permanentemente con información de este evento. Aquí publicaremos el programa y los enlaces.
+### Nombre: Daniel Vacaflores
+Título corto: La patrimonialización de San Roque
+Día: Agosto 16, 2023
+Hora: 22:00 (GTM-04)
+Enlace: https://meet.google.com/mjf-fiei-umk
+
+### Nombre: Sebastian Hachmeyer
+Título corto: La variable omitida
+Día: Agosto 17, 2023
+Hora: 06:00 am. (GTM-04)
+Enlace: https://meet.google.com/huu-xqih-dez
+
+## Gracias
+
+Esta página se actualizará permanentemente con información del evento. 
 
 Si llegaste a esta página y no estás suscrito al [boletín de PachaKamani](https://pachakamani.com/correo/), y quieres recibir la información directamente en tu correo electrónico, solo tienes que escribirnos a info@pachakamani.com y te incluiremos a la lista de correos de este evento. 
 
