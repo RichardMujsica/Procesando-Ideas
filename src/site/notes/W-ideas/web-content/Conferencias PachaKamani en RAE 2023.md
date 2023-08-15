@@ -45,9 +45,9 @@ https://meet.google.com/eae-xiez-txh
 ### Nombre: Rodrigo Chocano
 Título corto: Escepticismo estratégico.
 Día: Agosto 16, 2023
-Hora: 05:00 am. (GTM-04)
+Hora: 06:00 am. (GTM-04)
 Enlace: 
-https://meet.google.com/kns-xbvn-mfx
+https://meet.google.com/sdg-mddb-ayp
 
 ### Nombre: Daniel Vacaflores
 Título corto: La patrimonialización de San Roque
