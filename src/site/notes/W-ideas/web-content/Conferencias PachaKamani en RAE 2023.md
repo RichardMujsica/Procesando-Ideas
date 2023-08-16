@@ -6,7 +6,9 @@
 
 ¡Saludos, y gracias por tu visita ya eres miembro de PachaKamani!
 
-Es un placer invitarles a nuestro evento académico más importante del año, el **2do Encuentro "Reflexiones sobre la patrimonialización de músicas y sonoridades"**. 
+Es un placer invitarles a nuestro evento académico más importante del año, el **2do Encuentro "Reflexiones sobre la patrimonialización de músicas y sonoridades"**: Miércoles 23 de agosto, 2023 - La Paz, Bolivia.
+
+**Programa Completo de la RAE 2023**: [Descargar](http://www.musef.org.bo/pdf/rae/Programa_RAE2023.pdf) 
 ## Cronograma de grabación de ponencias 
 
 Esta página se actualizará permanentemente con información del evento. 
@@ -46,7 +48,6 @@ Hora: 06:00 am. (GMT-04)
 Enlace: 
 https://meet.google.com/eae-xiez-txh
 
-**Programa Completo de la RAE 2023**: [Descargar](http://www.musef.org.bo/pdf/rae/Programa_RAE2023.pdf) 
 
 # Presentación del 2do Encuentro
 
