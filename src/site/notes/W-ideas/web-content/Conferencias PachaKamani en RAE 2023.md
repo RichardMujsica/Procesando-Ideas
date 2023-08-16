@@ -13,19 +13,6 @@ Es un placer invitarles a nuestro evento académico más importante del año, el
 
 Esta página se actualizará permanentemente con información del evento. 
 
-### Nombre: Rodrigo Chocano (Modificado)
-Título corto: Escepticismo estratégico.
-Día: Agosto 16, 2023
-Hora: 06:00 am. (GMT-04)
-Enlace: 
-[https://meet.google.com/sdg-mddb-ayp](https://meet.google.com/sdg-mddb-ayp)
-
-### Nombre: Daniel Vacaflores
-Título corto: La patrimonialización de San Roque
-Día: Agosto 16, 2023
-Hora: 22:00 (GMT-04)
-Enlace: 
-https://meet.google.com/mjf-fiei-umk
 
 ### Nombre: Sebastian Hachmeyer
 Título corto: La variable omitida
@@ -33,6 +20,13 @@ Día: Agosto 17, 2023
 Hora: 06:00 am. (GMT-04)
 Enlace: 
 https://meet.google.com/huu-xqih-dez
+
+### Nombre: Daniel Vacaflores (Modificado)
+Título corto: La patrimonialización de San Roque
+Día: Agosto 18, 2023
+Hora: 21:00 (GMT-04)
+Enlace: 
+https://meet.google.com/mjf-fiei-umk
 
 ### Nombre: Rosalía Martínez (pendiente)
 Título: Acerca de la inscripción del Pujllay y del Ayarichi
@@ -48,7 +42,12 @@ Hora: 06:00 am. (GMT-04)
 Enlace: 
 https://meet.google.com/eae-xiez-txh
 
-
+### ✔️  Nombre: Rodrigo Chocano (Modificado)
+Título corto: Escepticismo estratégico.
+Día: Agosto 16, 2023
+Hora: 06:00 am. (GMT-04)
+Enlace: 
+[https://meet.google.com/sdg-mddb-ayp](https://meet.google.com/sdg-mddb-ayp)
 # Presentación del 2do Encuentro
 
 Para conocer los detalles de esta actividad, realizamos una reunión virtual transmitida mediante el [canal de Telegram de nuestro colectivo](https://t.me/PachaKamani) y emitida por Youtube. Aquí tienen el video de presentación y abajo tienen más detalles al respecto.
