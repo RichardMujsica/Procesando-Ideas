@@ -38,6 +38,12 @@ Hora: 06:00 am. (GTM-04)
 Enlace: 
 https://meet.google.com/huu-xqih-dez
 
+### Nombre: Rosalía Martínez (pendiente)
+Título: Acerca de la inscripción del Pujllay y del Ayarichi
+Día: Agosto 20, 2023
+Hora: 
+Enlace: 
+
 # Presentación del 2do Encuentro
 
 Para conocer los detalles de esta actividad, realizamos una reunión virtual transmitida mediante el [canal de Telegram de nuestro colectivo](https://t.me/PachaKamani) y emitida por Youtube. Aquí tienen el video de presentación y abajo tienen más detalles al respecto.
