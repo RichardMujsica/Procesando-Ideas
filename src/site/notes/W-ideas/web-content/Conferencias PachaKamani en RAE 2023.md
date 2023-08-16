@@ -46,6 +46,8 @@ Hora: 06:00 am. (GMT-04)
 Enlace: 
 https://meet.google.com/eae-xiez-txh
 
+**Programa Completo de la RAE 2023**: [Descargar](http://www.musef.org.bo/pdf/rae/Programa_RAE2023.pdf) 
+
 # Presentación del 2do Encuentro
 
 Para conocer los detalles de esta actividad, realizamos una reunión virtual transmitida mediante el [canal de Telegram de nuestro colectivo](https://t.me/PachaKamani) y emitida por Youtube. Aquí tienen el video de presentación y abajo tienen más detalles al respecto.
