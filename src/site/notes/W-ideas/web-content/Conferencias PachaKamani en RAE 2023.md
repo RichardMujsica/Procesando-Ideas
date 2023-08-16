@@ -28,11 +28,13 @@ Hora: 21:00 (GMT-04)
 Enlace: 
 https://meet.google.com/mjf-fiei-umk
 
-### Nombre: Rosalía Martínez (pendiente)
+### Nombre: Rosalía Martínez
 Título: Acerca de la inscripción del Pujllay y del Ayarichi
 Día: Agosto 20, 2023
-Hora: 
-Enlace: 
+Hora: 08:10 am. (GMT-04)
+Enlaces: 
+Se utilizará Zoom para la grabación: (Pendiente)
+Y luego Google Meet para los comentarios: https://meet.google.com/dxe-gdfu-nav
 
 **Ponencias realizadas:**
 ### ✔️ Nombre: Michelle Bigenho y Henry Stobart
