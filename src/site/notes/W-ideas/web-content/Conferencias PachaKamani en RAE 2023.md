@@ -10,19 +10,13 @@ Es un placer invitarles a nuestro evento académico más importante del año, el
 ## Cronograma de grabación de ponencias 
 
 Esta página se actualizará permanentemente con información del evento. 
-### ✔️ Nombre: Michelle Bigenho y Henry Stobart
-Título corto: El patrimonio marcado por género - No todo va por la ley.
-Día: Agosto 15, 2023
-Hora: 06:00 am. (GTM-04)
-Enlace: 
-https://meet.google.com/eae-xiez-txh
 
 ### Nombre: Rodrigo Chocano (Modificado)
 Título corto: Escepticismo estratégico.
 Día: Agosto 16, 2023
 Hora: 06:00 am. (GTM-04)
 Enlace: 
-https://meet.google.com/sdg-mddb-ayp
+[https://meet.google.com/sdg-mddb-ayp](https://meet.google.com/sdg-mddb-ayp)
 
 ### Nombre: Daniel Vacaflores
 Título corto: La patrimonialización de San Roque
@@ -43,6 +37,14 @@ Título: Acerca de la inscripción del Pujllay y del Ayarichi
 Día: Agosto 20, 2023
 Hora: 
 Enlace: 
+
+**Ponencias realizadas:**
+### ✔️ Nombre: Michelle Bigenho y Henry Stobart
+Título corto: El patrimonio marcado por género - No todo va por la ley.
+Día: Agosto 15, 2023
+Hora: 06:00 am. (GTM-04)
+Enlace: 
+https://meet.google.com/eae-xiez-txh
 
 # Presentación del 2do Encuentro
 
