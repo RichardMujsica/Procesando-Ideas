@@ -14,7 +14,7 @@ Es un placer invitarles a nuestro evento académico más importante del año, el
 Esta página se actualizará permanentemente con información del evento. 
 
 
-### Nombre: Sebastian Hachmeyer
+### Nombre: Sebastian Hachmeyer (cancelado)
 Título corto: La variable omitida
 Día: Agosto 17, 2023
 Hora: 06:00 am. (GMT-04)
