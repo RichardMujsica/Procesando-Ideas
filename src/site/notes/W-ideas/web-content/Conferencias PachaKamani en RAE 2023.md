@@ -13,20 +13,12 @@ Es un placer invitarles a nuestro evento académico más importante del año, el
 
 Esta página se actualizará permanentemente con información del evento. 
 
-
-### Nombre: Sebastian Hachmeyer (cancelado)
-Título corto: La variable omitida
-Día: Agosto 17, 2023
-Hora: 06:00 am. (GMT-04)
-Enlace: 
-https://meet.google.com/huu-xqih-dez
-
-### Nombre: Daniel Vacaflores (Modificado)
+### Nombre: Daniel Vacaflores
 Título corto: La patrimonialización de San Roque
 Día: Agosto 18, 2023
 Hora: 21:00 (GMT-04)
 Enlace: 
-https://meet.google.com/mjf-fiei-umk
+[https://meet.google.com/mjf-fiei-umk](https://meet.google.com/mjf-fiei-umk)
 
 ### Nombre: Rosalía Martínez
 Título: Acerca de la inscripción del Pujllay y del Ayarichi
@@ -50,6 +42,14 @@ Día: Agosto 16, 2023
 Hora: 06:00 am. (GMT-04)
 Enlace: 
 [https://meet.google.com/sdg-mddb-ayp](https://meet.google.com/sdg-mddb-ayp)
+
+### Nombre: Sebastian Hachmeyer (cancelado)
+Título corto: La variable omitida
+Día: Agosto 17, 2023
+Hora: 06:00 am. (GMT-04)
+Enlace: 
+https://meet.google.com/huu-xqih-dez
+
 # Presentación del 2do Encuentro
 
 Para conocer los detalles de esta actividad, realizamos una reunión virtual transmitida mediante el [canal de Telegram de nuestro colectivo](https://t.me/PachaKamani) y emitida por Youtube. Aquí tienen el video de presentación y abajo tienen más detalles al respecto.
