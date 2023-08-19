@@ -12,25 +12,28 @@ Es un placer invitarles a nuestro evento académico más importante del año, el
 ## Cronograma de grabación de ponencias 
 
 Esta página se actualizará permanentemente con información del evento. 
-
-### Nombre: Daniel Vacaflores
-Título corto: La patrimonialización de San Roque
-Día: Agosto 18, 2023
-Hora: 21:00 (GMT-04)
-Enlace: 
-[https://meet.google.com/mjf-fiei-umk](https://meet.google.com/mjf-fiei-umk)
-
 ### Nombre: Rosalía Martínez
 Título: Acerca de la inscripción del Pujllay y del Ayarichi
 Día: Agosto 20, 2023
 Hora: 08:10 am. (GMT-04)
 Enlaces: 
-Se utilizará Zoom para la grabación: (Pendiente)
-Y luego Google Meet para los comentarios: https://meet.google.com/dxe-gdfu-nav
+
+1) **Enlace para Grabación ponencia**
+Unirse a la reunión Zoom  
+[https://us04web.zoom.us/j/71763233925?pwd=JVqMlxVmaLViE3Jc5ZrHLnfrQ6286C.1](https://us04web.zoom.us/j/71763233925?pwd=JVqMlxVmaLViE3Jc5ZrHLnfrQ6286C.1)  
+  
+ID de reunión: 717 6323 3925  
+Código de acceso: 6gPNst  
+
+**2) Enlace para la conversación (comentarios y preguntas)**
+
+Terminada la grabación podríamos pasar a la plataforma de reunión de Google Meet. Esta es el enlace:
+
+[https://meet.google.com/dxe-gdfu-nav](https://meet.google.com/dxe-gdfu-nav)
 
 **Ponencias realizadas:**
 ### ✔️ Nombre: Michelle Bigenho y Henry Stobart
-Título corto: El patrimonio marcado por género - No todo va por la ley.
+Títulos cortos: 1) El patrimonio marcado por género. 2) No todo va por la ley.
 Día: Agosto 15, 2023
 Hora: 06:00 am. (GMT-04)
 Enlace: 
@@ -49,6 +52,13 @@ Día: Agosto 17, 2023
 Hora: 06:00 am. (GMT-04)
 Enlace: 
 https://meet.google.com/huu-xqih-dez
+
+### Nombre: Daniel Vacaflores (pendiente)
+Título corto: La patrimonialización de San Roque
+Día: Agosto 18, 2023
+Hora: 21:00 (GMT-04)
+Enlace: 
+[https://meet.google.com/mjf-fiei-umk](https://meet.google.com/mjf-fiei-umk)
 
 # Presentación del 2do Encuentro
 
