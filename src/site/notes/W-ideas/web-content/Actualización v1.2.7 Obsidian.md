@@ -47,4 +47,5 @@ Hay otras mejoras y ajustes en Obsidian, para conocer esos detalles puede visita
 Con estas nuevas funciones, Obsidian se vuelve indispensable para cualquier persona que desee organizarse y optimizar su tiempo de trabajo. 
 Gracias!
 
-[[W-ideas/Obsidian en LinkedIn\|Obsidian en LinkedIn]]
+
+**Volver**: [[W-ideas/Obsidian en LinkedIn\|Obsidian en LinkedIn]]
