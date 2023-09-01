@@ -6,7 +6,7 @@
 
 > Esta actualización presenta Propiedades, una forma sencilla y duradera de agregar etiquetas, enlaces, fechas y otros metadatos a sus notas. Los complementos principales Búsqueda, Plantillas y Vínculos de retroceso han recibido actualizaciones para admitir Propiedades. 
 
-Artículo original: https://obsidian.md/changelog/2023-08-31-desktop-v1.4.5/
+Artículo original: [https://obsidian.md/changelog/2023-08-31-desktop-v1.4.5/](https://obsidian.md/changelog/2023-08-31-desktop-v1.4.5/)
 
 ### Algunas de las nuevas características de esta versión:
 
@@ -99,3 +99,5 @@ _Nota:_ Cualquier dispositivo que inicie sesión en Obsidian debe ejecutar v1.4.
 -   Metadatos: `FrontMatterCache`ya no hereda de `CacheItem`.
 -   Tematización: se han agregado [nuevas variables CSS para las propiedades que comienzan con](https://docs.obsidian.md/Reference/CSS+variables/Editor/Properties)`--metadata`
 -   Se deshabilitó el ancho de línea suave `stringifyYaml`(esto estaba causando algunas roturas con otros complementos que leían YAML).
+
+**Volver**: [[W-ideas/Obsidian en LinkedIn\|Obsidian en LinkedIn]]
