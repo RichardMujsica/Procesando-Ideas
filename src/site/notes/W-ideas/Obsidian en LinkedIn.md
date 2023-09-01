@@ -17,7 +17,7 @@ Entonces, ¿Por qué no crear un espacio en LinkedIn para compartir nuestras her
 
 Ese es el motivo para crear este grupo de Obsidian y PKM en español: 
 
-https://www.linkedin.com/groups/12708607/
+[https://www.linkedin.com/groups/12708607/](https://www.linkedin.com/groups/12708607/)
 
 Además de compartir información básica sobre Obsidian, y sus recursos añadidos por comunidad. Encontrarás recursos sobre una de las principales finalidades: la Gestión del Conocimiento Personal (PKM).  
 Así conectaremos a LinkedIn con todo un movimiento y redes en otros espacios apasionados por estas apps y métodos.  
