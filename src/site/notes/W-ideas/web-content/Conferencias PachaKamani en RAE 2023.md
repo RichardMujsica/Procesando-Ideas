@@ -12,7 +12,7 @@ Es un placer invitarles a nuestro evento académico más importante del año, el
 ## Cronograma de grabación de ponencias 
 
 Esta página se actualizará permanentemente con información del evento. 
-### Nombre: Rosalía Martínez
+### ✔️ Nombre: Rosalía Martínez
 Título: Acerca de la inscripción del Pujllay y del Ayarichi
 Día: Agosto 20, 2023
 Hora: 08:10 am. (GMT-04)
@@ -66,26 +66,31 @@ Para conocer los detalles de esta actividad, realizamos una reunión virtual tra
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rHtjDtwQgLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## 2do encuentro internacional: "Reflexiones sobre la patrimonialización de músicas y sonoridades"
 
-En Bolivia, al igual que en toda América Latina, la música desempeña un papel central en la cultura y ha sido objeto de diversos conceptos, paradigmas y políticas. Sin embargo, en muchos casos, estos enfoques se han tomado prestados de otros países o regiones sin reflexionar sobre sus efectos y aplicarlos directamente a nuestras realidades y contextos.
+En Bolivia, al igual que en toda América Latina, la música desempeña un papel central en las culturas y ha sido objeto de diversos conceptos, paradigmas y políticas. Sin embargo, en muchos casos, estos enfoques se han tomado prestados de otros países o regiones sin reflexionar suficiente sobre sus efectos y fueron aplicarlos directamente a nuestras realidades y contextos.
 
-Con el objetivo de abrir un diálogo y reflexionar sobre estas interrogantes, en abril de 2016, el colectivo PachaKamani organizó el "[SIMPOSIO INTERNACIONAL: Reflexiones sobre la patrimonialización de la música en Bolivia](https://pachakamani.com/blog/simposio-internacional-reflexiones-sobre-la-patrimonializacion-de-la-musica-en-bolivia/)", que tuvo lugar en el Museo Nacional de Etnografía y Folklore. Posteriormente, otros colegas investigadores organizaron eventos en la misma línea donde participamos ampliando este análisis y continuar la reflexionar sobre el fenómeno en otros países de América Latina: durante una mesa redonda en la reunión de Estudios de América Latina en Lima con el título "Patrimonio de otros modos" (2017); en un panel en la reunión de Derecho y Sociedad en México con el título "La etnografía del derecho y del patrimonio indígena" (2017); y un [dossier publicado](https://pure.royalholloway.ac.uk/en/publications/del-indigenismo-al-patrimonialismo-una-introducci%C3%B3n-al-dossier-so) en 2019.
+Con el objetivo de abrir un diálogo y reflexionar sobre estas interrogantes, en abril de 2016, el colectivo PachaKamani organizó el "[SIMPOSIO INTERNACIONAL: Reflexiones sobre la patrimonialización de la música en Bolivia](https://pachakamani.com/blog/simposio-internacional-reflexiones-sobre-la-patrimonializacion-de-la-musica-en-bolivia/)", que tuvo lugar en el Museo Nacional de Etnografía y Folklore. Posteriormente, otros colegas investigadores organizaron eventos en la misma línea donde participamos ampliando este análisis para continuar la reflexión sobre estos fenómenos en otros países de América Latina: durante una mesa redonda en la reunión de Estudios de América Latina en Lima con el título "Patrimonio de otros modos" (2017); en un panel en la reunión de Derecho y Sociedad en México con el título "La etnografía del derecho y del patrimonio indígena" (2017); muchas de estas reflexiones se plasmaron en un [dossier publicado](https://pure.royalholloway.ac.uk/en/publications/del-indigenismo-al-patrimonialismo-una-introducci%C3%B3n-al-dossier-so) en 2019.
 
-Este año 2023, el Museo Nacional de Etnografía y Folklore, en La Paz, organiza la Reunión Anual de Etnología (RAE) y como temática central convoca ponencias sobre: “Sonidos, músicas y espacios”. En ese marco, desde PachaKamani proponemos dar continuidad y actualizar estos análisis a través de la realización de la **Submesa "Segundo encuentro: Reflexiones sobre la patrimonialización de músicas y sonoridades"**. En este espacio, buscamos profundizar en el tema y promover las actuales investigaciones y reflexiones de un grupo de especialistas que nos permita comprender mejor el papel de la música en los procesos de hacer patrimonio en Latinoamérica con énfasis en Bolivia. La fecha del evento es el **miércoles 23 de agosto de 2023 en la Sala Núñez del MUSEF**.
+Este año 2023, el [Museo Nacional de Etnografía y Folklore](http://www.musef.org.bo/), en La Paz, organiza la [Reunión Anual de Etnología (RAE)](http://www.musef.org.bo/convocatoria-rae-2023) y como temática central convoca ponencias sobre: “Sonidos, músicas y espacios”. En ese marco, desde PachaKamani proponemos dar continuidad y actualizar estos análisis a través de la realización de la **Submesa "2do encuentro: Reflexiones sobre la patrimonialización de músicas y sonoridades"**. En este espacio, buscamos profundizar en el tema y promover las actuales investigaciones y reflexiones de un grupo de especialistas que nos permita comprender mejor el papel de la música en los procesos de hacer patrimonio en Latinoamérica con énfasis en Bolivia. 
 
-Con esta propuesta, esperamos seguir avanzando en la reflexión y el conocimiento sobre la música como parte fundamental de nuestra identidad cultural y contribuir al desarrollo de políticas más conscientes y pertinentes en este ámbito.
+Fecha de nuestra submesa: **miércoles 23 de agosto de 2023** 
+Lugar: **Sala Núñez del MUSEF**
+Horarios: De 08:30 am. a 12:50
+
+Con esta propuesta, seguimos avanzando en la reflexión sobre la música como parte fundamental de nuestra identidad cultural y así contribuir a la generación de políticas públicas más conscientes y pertinentes en este ámbito.
 
 ## Expositores invitados 
 
 - Ada Belén Álvarez Celis (Bolivia)
-- Rodrigo Chocano (Perú)
-- Rosalía Martínez (París)
-- Gloria Villarroel Salgueiro (Bolivia)
-- Richard Mújica Angulo (Bolivia)
-- Sebastian Hachmeyer (Alemania)
 - Daniel Vacaflores (Bolivia)
-- Michelle Bigenho (Estados Unidos)
+- Edson Choque Ticona (Bolivia)
+- Gloria Villarroel Salgueiro (Bolivia)
 - Henry Stobart (Inglaterra)
+- Michelle Bigenho (Estados Unidos)
+- Richard Mújica Angulo (Bolivia)
+- Rodrigo Chocano (Perú)
+- Rosalía Martínez (Francia)
 ## Gracias
 
 Esta página se actualizará permanentemente con información del evento. 
