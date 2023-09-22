@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/w-ideas/podcast-pi/"}
+{"dg-publish":true,"permalink":"/w-ideas/podcast-pi/","noteIcon":""}
 ---
 
 ## Procesando ideas
