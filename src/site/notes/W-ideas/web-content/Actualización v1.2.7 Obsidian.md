@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/w-ideas/web-content/actualizacion-v1-2-7-obsidian/"}
+{"dg-publish":true,"permalink":"/w-ideas/web-content/actualizacion-v1-2-7-obsidian/","noteIcon":""}
 ---
 
 
