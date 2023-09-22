@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/w-ideas/web-content/obsidian-paso-a-paso/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/w-ideas/web-content/obsidian-paso-a-paso/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## Obsidian Paso a Paso
