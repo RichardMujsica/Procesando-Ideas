@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/w-ideas/web-content/conferencias-pacha-kamani-en-rae-2023/","noteIcon":""}
+{"dg-publish":true,"permalink":"/w-ideas/web-content/conferencias-pacha-kamani-en-rae-2023/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # 2do Encuentro "Reflexiones sobre la patrimonialización de músicas y sonoridades"
