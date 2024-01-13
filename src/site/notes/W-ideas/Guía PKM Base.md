@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/w-ideas/guia-pkm-base/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/w-ideas/guia-pkm-base/","noteIcon":""}
 ---
 
 ![](/img/user/W-ideas/img/pachakamani.jpg)
