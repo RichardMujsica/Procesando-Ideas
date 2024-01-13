@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/w-ideas/obsidian-en-linked-in/","dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/w-ideas/obsidian-en-linked-in/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 ## Grupo LinkedIn para Obsidian y PKM
