@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/w-ideas/web-content/obsidian-v1-4-escritorio/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/w-ideas/web-content/obsidian-v1-4-escritorio/","noteIcon":""}
 ---
 
 # Obsidian Actualización v1.4 Escritorio (Público)
