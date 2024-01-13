@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-show-local-graph":true,"permalink":"/w-ideas/procesando-ideas/","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/w-ideas/procesando-ideas/","tags":["gardenEntry"],"dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 
