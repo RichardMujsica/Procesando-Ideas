@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/w-ideas/presentacion/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/w-ideas/presentacion/","noteIcon":""}
 ---
 
 >[!info] Presentación
