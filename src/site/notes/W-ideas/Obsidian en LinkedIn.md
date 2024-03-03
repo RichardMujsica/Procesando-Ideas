@@ -25,6 +25,6 @@ Así conectaremos a LinkedIn con todo un movimiento y redes en otros espacios ap
 
 ### Algunas actualizaciones en español
 
-[[W-ideas/web-content/Obsidian v1.4 Escritorio\|Obsidian v1.4 Escritorio]]
+[[000 - LIBRETA/W-ideas/web-content/Obsidian v1.4 Escritorio\|000 - LIBRETA/W-ideas/web-content/Obsidian v1.4 Escritorio]]
 
-[[W-ideas/web-content/Actualización v1.2.7 Obsidian\|Actualización v1.2.7 Obsidian]]
+[[000 - LIBRETA/W-ideas/web-content/Actualización v1.2.7 Obsidian\|000 - LIBRETA/W-ideas/web-content/Actualización v1.2.7 Obsidian]]
