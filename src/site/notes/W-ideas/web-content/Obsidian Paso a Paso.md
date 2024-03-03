@@ -4,7 +4,7 @@
 
 ## Obsidian Paso a Paso
 
-Obsidian es una aplicación muy versátil y flexible, útil para quienes producen y consumen contenido, para realizar _investigación_ o crear una base de conocimiento personal en cualquier nivel de (auto)formación ([[W-ideas/Guía PKM Base\|Guía PKM Base]]). 
+Obsidian es una aplicación muy versátil y flexible, útil para quienes producen y consumen contenido, para realizar _investigación_ o crear una base de conocimiento personal en cualquier nivel de (auto)formación ([[000 - LIBRETA/W-ideas/Guía PKM Base\|000 - LIBRETA/W-ideas/Guía PKM Base]]). 
 
 > Curso Obsidian, paso a paso
 
@@ -26,5 +26,5 @@ Con este video damos inicio a un nuevo curso, el cual está dedicado a una de la
 [[W-ideas/Presentación\|Presentación]] - [[W-ideas/Obsidian en LinkedIn\|Obsidian en LinkedIn]] - [[W-ideas/Podcast Pi\|Podcast Pi]]
 
 ## Novedades en Obsidian
-[[W-ideas/web-content/Actualización v1.2.7 Obsidian\|Actualización v1.2.7 Obsidian]]
+[[000 - LIBRETA/W-ideas/web-content/Actualización v1.2.7 Obsidian\|000 - LIBRETA/W-ideas/web-content/Actualización v1.2.7 Obsidian]]
 
