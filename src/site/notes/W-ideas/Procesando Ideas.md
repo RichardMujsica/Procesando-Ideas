@@ -18,8 +18,8 @@
 
 >[!tip] Eventos en Curso
 
-[[000 - LIBRETA/W-ideas/web-content/Conferencias PachaKamani en RAE 2023\|000 - LIBRETA/W-ideas/web-content/Conferencias PachaKamani en RAE 2023]]
-este texto es nuevo.
+[[000 - LIBRETA/W-ideas/web-content/Conferencias PachaKamani en RAE 2023\|Conferencias]]
+Este texto es nuevo.
 
 >[!info] Contenido adicional
 
