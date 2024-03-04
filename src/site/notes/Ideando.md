@@ -15,8 +15,10 @@ Este es un espacio del _Colectivo PachaKamani_ para compartir información priva
 [[W-ideas/web-content/Conferencias PachaKamani en RAE 2023\|Conferencias 2023]]
 
 >[!info] En proceso
-- Podcast
-- Publicaciones
+- Podcast:
+	- Tercera temporada podcast "A través de las Ventana"
+- Publicaciones:
+	- Compilado de artículos sobre "Patrimonialización de la Música" como producto del evento: [[W-ideas/web-content/Conferencias PachaKamani en RAE 2023\|Conferencias PachaKamani en RAE 2023]]
 
 
 >[!info] Contenido adicional
