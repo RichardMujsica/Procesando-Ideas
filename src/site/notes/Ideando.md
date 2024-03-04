@@ -12,7 +12,7 @@ Este es un espacio del _Colectivo PachaKamani_ para compartir información priva
 
 >[!tip] Eventos en Curso
 
-[[000 - LIBRETA/W-ideas/web-content/Conferencias PachaKamani en RAE 2023\|Conferencias]]
+[[W-ideas/web-content/Conferencias PachaKamani en RAE 2023\|Conferencias 2023]]
 
 >[!info] En proceso
 - Podcast
