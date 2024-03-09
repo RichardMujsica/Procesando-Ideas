@@ -12,8 +12,9 @@ Este es un espacio del _Colectivo PachaKamani_ para compartir información priva
 
 >[!tip] Eventos en Curso
 
+- Entrevistas al podcast "A través de la Ventana" en medios de comunicación en el marco del 8M.
+- Webinars 2024, planificación.
 - [[W-ideas/web-content/Conferencias PachaKamani en RAE 2023\|Conferencias 2023]]
-- Webinars 2024
 
 
 >[!info] En proceso
