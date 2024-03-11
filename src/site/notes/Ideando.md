@@ -5,35 +5,42 @@
 ![](/img/user/W-ideas/img/pachakamani.jpg)
 # Ideando
 
-Este es un espacio del _Colectivo PachaKamani_ para compartir información privada de proyectos en proceso de trabajo. 
+Este es un espacio del _Colectivo PachaKamani_ para compartir información de nuestros proyectos y actividades.
+Si quieres saber en qué estamos trabajando, puedes visitar esta página. Conocerás aquellas que están "_En proceso_", las que estamos "_Ideando_", y las "_Terminadas_". 
 
->[!tip] Eventos en Curso
-
-- Entrevistas al podcast "A través de la Ventana" en medios de comunicación en el marco del 8M.
-- Webinars 2024, planificación.
-- [[W-ideas/web-content/Conferencias PachaKamani en RAE 2023\|Conferencias 2023]]
-
-
->[!info] En proceso
-- Podcast:
+>[!danger]- En proceso
+>Verificar: 
+- Podcast (producción):
 	- Tercera temporada podcast "A través de las Ventana"
-- Publicaciones:
-	- Compilado de artículos sobre "Patrimonialización de la Música" como producto del evento: [[W-ideas/web-content/Conferencias PachaKamani en RAE 2023\|Conferencias PachaKamani en RAE 2023]]
 
+
+>[!NOTE]- Ideando...
+>- Webinars 2024:
+>	- Serie: Podcast para escuchar.
+>	- Serie: Paisajes y arte sonoro.
+>- Publicación de Convocatoria "Curso de Redacción de artículos (2da versión)"
+
+> [!summary]- Terminado
+> 
+> 
+Actividades concluidas (2 meses atrás):
+- Publicación de Boletín especial "Tejido Jalq'a"
+- Entrevistas al podcast "A través de la Ventana" en medios de comunicación en el marco del 8M:
+	- Entrevista Radio Taypi
+	- Entrevista en ClarOscuro
+- Publicación Revista Thakhi Musef:
+	- Entrega del Compilado de artículos sobre "Patrimonialización de la Música" como producto del evento: [[W-ideas/web-content/Conferencias PachaKamani en RAE 2023\|Conferencias PachaKamani en RAE 2023]]
 
 >[!info] Contenido adicional
 
-Al igual que los procesos creativos que exploramos, este sitio está en constante crecimiento. Actualmente, ofrecemos cuatro tipos de contenido que puedes explorar:
+Escríbenos  ⇢ info@pachakamani.com 
+Boletín ⇢ https://pachakamani.com/correo/ 
+🏠 Sitio web ⇢ https://pachakamani.com/ 
+🔄 Canal Telegram ⇢ https://t.me/pachakamani 
+🖇️ LinkedIn ⇢ https://www.linkedin.com/company/pachakamani/ 
+👀 Discord ⇢ https://discord.com/invite/hgxsHFAZDB 
+Más enlaces ⇢ https://bio.link/pachakamani
 
-- Te invitamos a formar parte de nuestra comunidad a través de nuestro reciente espacio en LinkedIn para compartir sobre PKM y [[W-ideas/Obsidian en LinkedIn\|Obsidian en LinkedIn]].
-- Una herramienta fundamental para la creación de contenido es una buena aplicación de notas, y por ello, recomendamos Obsidian como plataforma principal. Para ello, tenemos algunos videos que complementan nuestro aprendizaje en el [Curso de Obsidian Paso a Paso](https://procesandoideas.kamani.pro/pkm-obsidian/obsidian-paso-a-paso/).
-- Además, te ofrecemos una guía de manejo de la Bóveda en Obsidian para ayudarte en la construcción inicial de un "Sistema personal de conocimiento" (PKM) en [Obsidian](https://procesandoideas.kamani.pro/pkm-obsidian/guia-pkm-base/).
-- Nuestro [Podcast Procesando Ideas](https://procesandoideas.kamani.pro/podcast-pi/), el cual es el medio central para compartir conocimientos y técnicas relacionados con diferentes procesos de creación y pensamiento.
-
-Explora nuestros recursos y únete a nosotros para continuar aprendiendo juntos y descubriendo nuevas formas de procesar las ideas.
-
-
-Novedades, muy pronto.
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
