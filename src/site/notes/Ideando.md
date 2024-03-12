@@ -31,10 +31,10 @@ Actividades concluidas (2 meses atrás):
 
 >[!info] Contenido adicional
 
-Escríbenos  ⇢ info@pachakamani.com 
-Boletín ⇢ https://pachakamani.com/correo/ 
+📝 Escríbenos  ⇢ info@pachakamani.com 
+✉️ Boletín ⇢ https://pachakamani.com/correo/ 
 🏠 Sitio web ⇢ https://pachakamani.com/ 
-🔄 Canal Telegram ⇢ https://t.me/pachakamani 
+✈️ Canal Telegram ⇢ https://t.me/pachakamani 
 🖇️ LinkedIn ⇢ https://www.linkedin.com/company/pachakamani/ 
 👀 Discord ⇢ https://discord.com/invite/hgxsHFAZDB 
 Más enlaces ⇢ https://bio.link/pachakamani
