@@ -21,8 +21,6 @@ Si quieres saber en qué estamos trabajando, puedes visitar esta página. Conoce
 >- Publicación de Convocatoria "Curso de Redacción de artículos (2da versión)"
 
 > [!summary]- Terminado
-> 
-> 
 Actividades concluidas (2 meses atrás):
 - Publicación de Boletín especial "Tejido Jalq'a"
 - Entrevistas al podcast "A través de la Ventana" en medios de comunicación en el marco del 8M:
