@@ -6,7 +6,7 @@
 # Ideando
 
 Este es un espacio del _Colectivo PachaKamani_ para compartir información de nuestros proyectos y actividades.
-Si quieres saber en qué estamos trabajando, puedes visitar esta página. Conocerás aquellas que están "_En proceso_", las que estamos "_Ideando_", y las "_Terminadas_". 
+Si quieres saber en qué estamos trabajando, puedes visitar esta página. Conocerás aquellas que están "_En proceso_", las que estamos "_Ideando_", y las "_Terminadas_".
 
 >[!danger]- En proceso
 >Verificar: 
