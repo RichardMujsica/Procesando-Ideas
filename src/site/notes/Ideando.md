@@ -10,6 +10,9 @@ Si quieres saber en qué estamos trabajando, puedes visitar esta página. Conoce
 
 >[!danger]- En proceso
 >Verificar: 
+- Boletín: Foro en San Ignacio de Moxos
+- Charlas Podcast:
+	- Jueves 11: Charla sobre podcast, con la Carrera de Comunicación de la UMSA.
 - Podcast (producción):
 	- Tercera temporada podcast "A través de las Ventana"
 
