@@ -22,9 +22,3 @@ Ese es el motivo para crear este grupo de Obsidian y PKM en español:
 Además de compartir información básica sobre Obsidian, y sus recursos añadidos por comunidad. Encontrarás recursos sobre una de las principales finalidades: la Gestión del Conocimiento Personal (PKM).  
 Así conectaremos a LinkedIn con todo un movimiento y redes en otros espacios apasionados por estas apps y métodos.  
 ¡Te esperamos!
-
-### Algunas actualizaciones en español
-
-[[000 - LIBRETA/W-ideas/web-content/Obsidian v1.4 Escritorio\|000 - LIBRETA/W-ideas/web-content/Obsidian v1.4 Escritorio]]
-
-[[000 - LIBRETA/W-ideas/web-content/Actualización v1.2.7 Obsidian\|000 - LIBRETA/W-ideas/web-content/Actualización v1.2.7 Obsidian]]
