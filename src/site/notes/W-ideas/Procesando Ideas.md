@@ -7,7 +7,7 @@
 
 
 
-[[W-ideas/Presentación\|Presentación]] - [[000 - LIBRETA/W-ideas/Guía PKM Base\|000 - LIBRETA/W-ideas/Guía PKM Base]] - [[W-ideas/Podcast Pi\|Podcast Pi]] - [[000 - LIBRETA/W-ideas/web-content/Obsidian Paso a Paso\|000 - LIBRETA/W-ideas/web-content/Obsidian Paso a Paso]]
+[[W-ideas/Presentación\|Presentación]] - [[W-ideas/Podcast Pi\|Podcast Pi]] 
 
 </div></div>
 
