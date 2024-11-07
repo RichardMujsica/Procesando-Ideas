@@ -10,17 +10,17 @@ Si quieres saber en qué estamos trabajando, puedes visitar esta página. Conoce
 
 >[!danger]- En proceso
 >Verificar: 
-- Boletín: Foro en San Ignacio de Moxos
+- Boletín: Noticias sobre patrimonio cultural Noviembre.
 - Charlas Podcast:
-	- Jueves 11: Charla sobre podcast, con la Carrera de Comunicación de la UMSA.
+	- Jueves 11: Charla en Simposio sobre música
 - Podcast (producción):
-	- Tercera temporada podcast "A través de las Ventana"
+	- Publicación de nuevo episodio en PachaKamani-Radio.
 
 
 >[!NOTE]- Ideando...
 >- Webinars 2024:
+>	- Serie: Crisi climática y medio ambiente.
 >	- Serie: Podcast para escuchar.
->	- Serie: Paisajes y arte sonoro.
 >- Publicación de Convocatoria "Curso de Redacción de artículos (2da versión)"
 
 > [!summary]- Terminado
