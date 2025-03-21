@@ -10,25 +10,24 @@ Si quieres saber en qué estamos trabajando, puedes visitar esta página. Conoce
 
 >[!danger]- En proceso
 >Verificar: 
-- Boletín: Noticias sobre patrimonio cultural Noviembre.
+- Boletín: Noticias sobre patrimonio cultural Marzo 2025.
 - Charlas Podcast:
 	- Jueves 11: Charla en Simposio sobre música
 - Podcast (producción):
 	- Publicación de nuevo episodio en PachaKamani-Radio.
-
+	- Publicación nuevo episodio "Encuentro Saberes"
+- Webinars 2025:
+	- Serie: Estudios sonoros
 
 >[!NOTE]- Ideando...
->- Webinars 2024:
->	- Serie: Crisi climática y medio ambiente.
+>- Webinars 2025:
 >	- Serie: Podcast para escuchar.
 >- Publicación de Convocatoria "Curso de Redacción de artículos (2da versión)"
 
 > [!summary]- Terminado
 Actividades concluidas (2 meses atrás):
-- Publicación de Boletín especial "Tejido Jalq'a"
-- Entrevistas al podcast "A través de la Ventana" en medios de comunicación en el marco del 8M:
-	- Entrevista Radio Taypi
-	- Entrevista en ClarOscuro
+- Publicación de Boletín especial "Noticias de Patrimonio"
+- Serie: Crisi climática y medio ambiente.
 - Publicación Revista Thakhi Musef:
 	- Entrega del Compilado de artículos sobre "Patrimonialización de la Música" como producto del evento: [[W-ideas/web-content/Conferencias PachaKamani en RAE 2023\|Conferencias PachaKamani en RAE 2023]]
 
