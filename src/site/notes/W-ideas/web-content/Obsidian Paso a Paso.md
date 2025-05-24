@@ -23,7 +23,7 @@ Con este video damos inicio a un nuevo curso, el cual está dedicado a una de la
 ### Apariencia, temas y personalización
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R1f9dRAu_h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[[W-ideas/Presentación\|Presentación]] - [[W-ideas/Obsidian en LinkedIn\|Obsidian en LinkedIn]] - [[W-ideas/Podcast Pi\|Podcast Pi]]
+[[000 - LIBRETA/W-ideas/Presentación\|000 - LIBRETA/W-ideas/Presentación]] - [[W-ideas/Obsidian en LinkedIn\|Obsidian en LinkedIn]] - [[W-ideas/Podcast Pi\|Podcast Pi]]
 
 ## Novedades en Obsidian
 [[000 - LIBRETA/W-ideas/web-content/Actualización v1.2.7 Obsidian\|000 - LIBRETA/W-ideas/web-content/Actualización v1.2.7 Obsidian]]
