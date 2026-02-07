@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/w-ideas/procesando-ideas/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/w-ideas/procesando-ideas/","noteIcon":""}
 ---
 
 
